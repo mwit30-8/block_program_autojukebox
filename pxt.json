@@ -1,5 +1,6 @@
 {
     "name": "block_program_autojukebox",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*"
